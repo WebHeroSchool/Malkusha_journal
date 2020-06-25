@@ -21,7 +21,11 @@
   font-size: 25px;
   letter-spacing: 15px;
 }
-.aside_notice{
-  float:right;
-  height="192";
+
+.page{
+  font-family: 'Roboto', sans-serif;
+}
+
+.text{
+  font-family: 'Tinos', serif;
 }
